@@ -1,0 +1,6 @@
+__pycache__/
+poetry.lock
+dist/
+*.pyc
+*.csv
+run.py
