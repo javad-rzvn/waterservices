@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "waterservices"
-version = "0.1.0"
+version = "0.1.1"
 description = "A pyhton package to work with WaterServices USGS"
 readme = "README.md"
 authors = ["javad-rzvn <javad.rezvanpour@gmail.com>"]
